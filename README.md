@@ -1,2 +1,1 @@
-# ramengentot
-ramengentot
+# [ramengentot](https://ramengentot.pages.dev)
